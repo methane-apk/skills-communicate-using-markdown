@@ -20,3 +20,10 @@
 ```javascript
 var myVar = "Hello, world!";
 console.log(myVar);
+
+- [ ] Task item not completed
+- [x] Task item completed
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
