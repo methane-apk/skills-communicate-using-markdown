@@ -20,6 +20,7 @@
 ```javascript
 var myVar = "Hello, world!";
 console.log(myVar);
+```
 
 - [ ] Task item not completed
 - [x] Task item completed
